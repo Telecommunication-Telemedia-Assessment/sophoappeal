@@ -1,7 +1,7 @@
 # Sophoappeal
 This repository summarizes the work done in the DFG project [Sophoappeal (437543412)](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-audiovisuelle-technik/forschung/dfg-projekt-sophoappeal). 
 
-**important use `git clone --recursive` for the checkout**, and have ssh keys for your git cloning activated.
+**Important use `git clone --recursive` for the checkout**, and have ssh keys for your git cloning activated.
 
 ## Structure
 
