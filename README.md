@@ -1,11 +1,30 @@
 # Sophoappeal
-This repository summarizes the work done in the DFG project [Sophoappeal (437543412)](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-audiovisuelle-technik/forschung/dfg-projekt-sophoappeal) 
+This repository summarizes the work done in the DFG project [Sophoappeal (437543412)](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-audiovisuelle-technik/forschung/dfg-projekt-sophoappeal). 
 
 **important use `git clone --recursive` for the checkout**, and have ssh keys for your git cloning activated.
 
 ## Structure
 
-* `images`: all images used in the test
+* `images`: all images used in the project
+
+* `aesthetics_srv`: evaluation web service used for lab and crowd tests, for a generic framework checkout [AVRateVoyager](https://github.com/Telecommunication-Telemedia-Assessment/AVrateVoyager)
+
+* models for appeal prediction:
+    * `appeal_prediction_dnn_transferlearning`
+    * `appeal_prediction_models`
+* features:
+    * `dnn_features`
+    * `image_features_tool`
+* extracted maps for images:
+    * `depth_segmentation_maps`
+    * `saliency_maps`
+* photo rule prediction:
+    * `rule_prediction`
+* subjective lab and crowd tests:
+    * `evaluation_image_appeal_test_1`
+    * `evaluation_image_appeal_test_2`
+
+* `additional`: follow up work, such as appeal of AI generated images, and [AVRateVoyager](https://github.com/Telecommunication-Telemedia-Assessment/AVrateVoyager)
 
 
 ## Requirements
