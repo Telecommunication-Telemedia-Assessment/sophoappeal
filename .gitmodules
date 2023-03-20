@@ -28,3 +28,6 @@
 [submodule "evaluation_image_appeal_test_1"]
 	path = evaluation_image_appeal_test_1
 	url = git@github.com:Telecommunication-Telemedia-Assessment/sophoappeal_evaluation_image_appeal_test_1.git
+[submodule "evaluation_image_appeal_test_2"]
+	path = evaluation_image_appeal_test_2
+	url = git@github.com:Telecommunication-Telemedia-Assessment/sophoappeal_evaluation_image_appeal_test_2.git
