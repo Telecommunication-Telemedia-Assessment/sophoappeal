@@ -35,8 +35,8 @@
 	path = aesthetics_srv
 	url = git@github.com:Telecommunication-Telemedia-Assessment/sophoappeal_aesthetics_srv.git
 [submodule "future_work/avt_ai_image"]
-	path = avt_ai_image
+	path = additional/avt_ai_image
 	url = git@github.com:Telecommunication-Telemedia-Assessment/avt_ai_image.git
 [submodule "AVrateVoyager"]
-	path = AVrateVoyager
+	path = additional/AVrateVoyager
 	url = git@github.com:Telecommunication-Telemedia-Assessment/AVrateVoyager.git
