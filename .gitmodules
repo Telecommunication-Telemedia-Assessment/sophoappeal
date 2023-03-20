@@ -22,3 +22,9 @@
 [submodule "appeal_prediction_dnn_transferlearning"]
 	path = appeal_prediction_dnn_transferlearning
 	url = git@github.com:Telecommunication-Telemedia-Assessment/sophoappeal_appeal_prediction_dnn_transferlearning.git
+[submodule "sophoappeal_evaluation_image_appeal_test_1"]
+	path = sophoappeal_evaluation_image_appeal_test_1
+	url = git@github.com:Telecommunication-Telemedia-Assessment/sophoappeal_evaluation_image_appeal_test_1.git
+[submodule "evaluation_image_appeal_test_1"]
+	path = evaluation_image_appeal_test_1
+	url = git@github.com:Telecommunication-Telemedia-Assessment/sophoappeal_evaluation_image_appeal_test_1.git
