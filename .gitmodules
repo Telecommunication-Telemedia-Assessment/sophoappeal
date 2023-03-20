@@ -1,0 +1,24 @@
+[submodule "rule_prediction"]
+	path = rule_prediction
+	url = git@github.com:Telecommunication-Telemedia-Assessment/sophoappeal_rule_prediction.git
+[submodule "images"]
+	path = images
+	url = git@github.com:Telecommunication-Telemedia-Assessment/sophoappeal_images.git
+[submodule "saliency_maps"]
+	path = saliency_maps
+	url = git@github.com:Telecommunication-Telemedia-Assessment/sophoappeal_saliency_maps.git
+[submodule "image_features_tool"]
+	path = image_features_tool
+	url = git@github.com:Telecommunication-Telemedia-Assessment/sophoappeal_image_features_tool.git
+[submodule "dnn_features"]
+	path = dnn_features
+	url = git@github.com:Telecommunication-Telemedia-Assessment/sophoappeal_dnn_features.git
+[submodule "depth_segmentation_maps"]
+	path = depth_segmentation_maps
+	url = git@github.com:Telecommunication-Telemedia-Assessment/sophoappeal_depth_segmentation_maps.git
+[submodule "appeal_prediction_models"]
+	path = appeal_prediction_models
+	url = git@github.com:Telecommunication-Telemedia-Assessment/sophoappeal_appeal_prediction_models.git
+[submodule "appeal_prediction_dnn_transferlearning"]
+	path = appeal_prediction_dnn_transferlearning
+	url = git@github.com:Telecommunication-Telemedia-Assessment/sophoappeal_appeal_prediction_dnn_transferlearning.git
