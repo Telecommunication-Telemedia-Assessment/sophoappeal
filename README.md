@@ -20,6 +20,7 @@ This repository summarizes the work done in the DFG project [Sophoappeal (437543
     * `saliency_maps`
 * photo rule prediction:
     * `rule_prediction`
+    * `rule_prediction_extension`
 * subjective lab and crowd tests:
     * `evaluation_image_appeal_test_1`
     * `evaluation_image_appeal_test_2`
