@@ -33,7 +33,7 @@ The provided software is tested under Ubuntu 20.04 and 22.04.
 
 * python3, python3-pip
 
-The subfolders have dedicated Readme.md files with instructions.
+The subfolders have dedicated README.md files with instructions.
 
 ## Acknowledgments
 
