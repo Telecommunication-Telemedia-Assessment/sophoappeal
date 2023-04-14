@@ -40,3 +40,6 @@
 [submodule "rule_prediction_extension"]
 	path = rule_prediction_extension
 	url = git@github.com:Telecommunication-Telemedia-Assessment/sophoappeal_rule_prediction_extension.git
+[submodule "additional/avt_ai_images"]
+	path = additional/avt_ai_images
+	url = git@github.com:Telecommunication-Telemedia-Assessment/avt_ai_images.git
