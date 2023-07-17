@@ -47,7 +47,11 @@ If you use this software or data in your research, please include a link to the 
   journal={IEEE Access},
   year={2023},
   publisher={IEEE},
-  note={to appear}
+  note={to appear},
+  volume={11},
+  number={},
+  pages={69563-69585},
+  doi={10.1109/ACCESS.2023.3292588},
 }
 ```
 
